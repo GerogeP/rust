@@ -1,3 +1,4 @@
 .jar
 /typescript/**/node_modules/
 /rust/**/target/
+**/doc/
